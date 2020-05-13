@@ -1,3 +1,3 @@
-# notesbloc
+# Notes
 
 Simple Flutter note application.
